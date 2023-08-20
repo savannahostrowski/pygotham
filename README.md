@@ -10,7 +10,7 @@ This repo hosts materials for my session at PyGotham TV 2023.
 Learn how to use real-world cloud development application templates via CLI to go from local development environment to the cloud. Scaffold your application, provision resources, deploy code, and set up a CI/CD pipeline, all in a couple of steps and just a few minutes.
 
 ## Slides
-You can find slides in [this repo]()!
+You can find slides in [this repo](PyGothamSlides.pdf)!
 
 ## **Additional Resources**
 If you're interested in learning more, be sure to check out:
